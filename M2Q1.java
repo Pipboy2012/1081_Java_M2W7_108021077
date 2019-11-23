@@ -13,7 +13,7 @@ public class M2Q1{
              }else if (minval>v1){
                  minval=v1;
              }
-         }System.out.println(maxval);
-         System.out.println(minval);
+         }System.out.println("max="+maxval);
+         System.out.println("min="+minval);
     }
 }
